@@ -1,4 +1,4 @@
-# UM_scenario-to-application
+# GEMA Nusantara 2026 (Universitas Negeri Malang AI Lecture)
 
 # From Scenario to Application: Problem Formulation Using Generative AI
 
